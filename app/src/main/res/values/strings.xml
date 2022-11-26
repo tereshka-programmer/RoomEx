@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RoomEx</string>
+    <string name="field_email">Field email</string>
+    <string name="field_password">Field password</string>
+    <string name="action_create_account">Create account</string>
+    <string name="action_sign_in">Sign In</string>
+    <string name="field_repeat_password">Field repeat password</string>
+    <string name="field_username">Field username</string>
+</resources>
